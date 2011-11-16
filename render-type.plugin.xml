@@ -5,7 +5,7 @@
 	<url>http://svn.habariproject.org/habari-extras/plugins/render-type/</url>
 	<author url="http://habariproject.org/">The Habari Community</author>
 	<description><![CDATA[A plugin for rendering text as images.]]></description>
-	<license>Public Domain</license>
+	<license url="http://en.wikipedia.org/wiki/Public_domain">Public Domain</license>
 	<guid>FEFD6638-838E-11DD-8AFF-17DB55D89593</guid>
 	<help>
 		<value><![CDATA[
